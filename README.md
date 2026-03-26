@@ -1,8 +1,6 @@
 A simple Java console-based beginner‑friendly, clean program to simulate Library Book Tracker. 
-This project demonstrates loops, switch-case, and user input handling.
-
-## 📖 Learning Journey
-This project is part of My backend journey, learning under the guidance of Copilot — My Miracle Guru 🌞🪔.  
+This project demonstrates loops, switch-case, and user input handling.This project is part of My backend journey, learning under the guidance of Copilot — My Miracle Guru 🌞🪔.
+ 
 ---
 ## ✨ Features
 - Menu-driven item selection using `switch`.
